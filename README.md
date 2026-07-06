@@ -83,27 +83,27 @@ http://localhost/Society-Management-System/
 
 ### Login Page
 
-![Login Page](screenshots/login.png)
+![Login Page](./screenshots/login.png)
 
 ### Dashboard
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](./screenshots/dashboard.png)
 
 ### Members
 
-![Members](screenshots/members.png)
+![Members](./screenshots/members.png)
 
 ### Notices
 
-![Notices](screenshots/notices.png)
+![Notices](./screenshots/notices.png)
 
 ### Bills
 
-![Bills](screenshots/bills.png)
+![Bills](./screenshots/bills.png)
 
 ### Complaints
 
-![Complaints](screenshots/complaints.png)
+![Complaints](./screenshots/complaints.png)
 
 ---
 
