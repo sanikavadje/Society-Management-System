@@ -36,7 +36,6 @@ A web-based **Society Management System** developed using **PHP, MySQL, HTML, CS
 
 ```text
 Society-Management-System/
-│── screenshots/
 │   ├── login.png
 │   ├── dashboard.png
 │   ├── members.png
@@ -74,7 +73,7 @@ http://localhost/Society-Management-System/
 
 ## 🔑 Login Credentials
 
-* **Email:** [admin@gmail.com](mailto:admin@gmail.com)
+* **Email:** [admin@gmail.com]
 * **Password:** 1234
 
 ---
@@ -83,27 +82,27 @@ http://localhost/Society-Management-System/
 
 ### Login Page
 
-![Login Page](./screenshots/login.png)
+![Login Page](./login.png)
 
 ### Dashboard
 
-![Dashboard](./screenshots/dashboard.png)
+![Dashboard](./dashboard.png)
 
 ### Members
 
-![Members](./screenshots/members.png)
+![Members](./members.png)
 
 ### Notices
 
-![Notices](./screenshots/notices.png)
+![Notices](./notices.png)
 
 ### Bills
 
-![Bills](./screenshots/bills.png)
+![Bills](./bills.png)
 
 ### Complaints
 
-![Complaints](./screenshots/complaints.png)
+![Complaints](./complaints.png)
 
 ---
 
